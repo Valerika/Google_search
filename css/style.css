@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, sans-serif;
+}
+
+.wrapper{
+  margin: 0 auto;
+  text-align: center;
+  width: 576px;
+}
+
+.logo{
+  display: block;
+  text-align: center;
+  margin: 100px 0 0 0;
+}
+
+.text-form{
+  /*display: block;*/
+  width: 523px;
+  height: 26px;
+  margin: 18px 0 18px 0;
+}
+
+.submit-btn{
+  height: 36px;
+  cursor: default;
+  color: #757575;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  border: none;
+
+}
+
+.submit-free{
+  height: 36px;
+  cursor: default;
+  color: #757575;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  border: none;
+}
